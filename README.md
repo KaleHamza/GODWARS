@@ -8,7 +8,7 @@ So second picture here now. What we are seeing it ,we see health potion,coin ,an
 
 ![SecondRecord](https://user-images.githubusercontent.com/71084430/229352628-e2fdf9a4-cbfb-4d05-8edc-88d8ac6168b8.png)
 
-I changed UI and I add some music the game ,also the game has pause panel and music controll now!Character have a level now and when you kil a monster my u level up!
+I changed UI and I add some music the game ,also the game has pause panel and music controll now!Character have a level now and when you kil a monster my u level up!(03/04/2023)
 
 
 ![level](https://user-images.githubusercontent.com/71084430/229563683-ea825b5c-e6e6-4990-8c73-af4a31449001.png)
