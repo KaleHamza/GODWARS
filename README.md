@@ -12,3 +12,10 @@ I changed UI and I add some music the game ,also the game has pause panel and mu
 
 
 ![level](https://user-images.githubusercontent.com/71084430/229563683-ea825b5c-e6e6-4990-8c73-af4a31449001.png)
+
+
+We have main manu and also used prefab for coin,satars,level,health.So we have DataManager. Everything going well...
+
+
+![mainmenu](https://user-images.githubusercontent.com/71084430/230137786-b6c9ab9f-6455-4e88-9a71-b31a97be8783.png)
+![levelsesign2](https://user-images.githubusercontent.com/71084430/230137791-cd5e1002-0676-47ee-aa34-991ecb4bbcd8.png)
