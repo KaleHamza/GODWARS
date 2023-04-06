@@ -19,3 +19,7 @@ We have main manu and also used prefab for coin,satars,level,health.So we have D
 
 ![mainmenu](https://user-images.githubusercontent.com/71084430/230137786-b6c9ab9f-6455-4e88-9a71-b31a97be8783.png)
 ![levelsesign2](https://user-images.githubusercontent.com/71084430/230137791-cd5e1002-0676-47ee-aa34-991ecb4bbcd8.png)
+
+CheckPoint and damage text is new! Damage randomly hurt the enemy ...
+![checkpoint](https://user-images.githubusercontent.com/71084430/230436027-fb612919-9606-4f44-b67c-5dc071b719eb.png)
+![text](https://user-images.githubusercontent.com/71084430/230436034-46e22a83-ca23-4b1f-bf54-00506ac01c8f.png)
