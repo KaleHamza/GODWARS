@@ -23,3 +23,7 @@ We have main manu and also used prefab for coin,satars,level,health.So we have D
 CheckPoint and damage text is new! Damage randomly hurt the enemy ...
 ![checkpoint](https://user-images.githubusercontent.com/71084430/230436027-fb612919-9606-4f44-b67c-5dc071b719eb.png)
 ![text](https://user-images.githubusercontent.com/71084430/230436034-46e22a83-ca23-4b1f-bf54-00506ac01c8f.png)
+
+Inventory System...
+
+![inventory](https://user-images.githubusercontent.com/71084430/230641465-1c06803b-78ca-4e36-a95f-f6e8a64718fc.png)
