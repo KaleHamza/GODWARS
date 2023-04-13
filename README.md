@@ -34,3 +34,8 @@ Our game has its first NPC here, and its sole purpose is to either sell or buy s
 
 We have a new Inventory DataSave system, but it's just on the code side, so I cannot show you a picture. When you kill a monster, some items from the inventory may drop from the enemy.(12.04.2023)
 
+
+We have a player panel, and we can equip items on ourselves.The items we equip provide us with various enhancements.
+![PlayerPanel](https://user-images.githubusercontent.com/71084430/231735056-fbc44769-14fe-4987-8459-fe206fdd2813.png)
+
+
