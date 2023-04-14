@@ -38,4 +38,7 @@ We have a new Inventory DataSave system, but it's just on the code side, so I ca
 We have a player panel, and we can equip items on ourselves.The items we equip provide us with various enhancements.(13.04.2023)
 ![PlayerPanel](https://user-images.githubusercontent.com/71084430/231735056-fbc44769-14fe-4987-8459-fe206fdd2813.png)
 
+We have Enemy Iskeleton and this enemy has AI!
+![Iskeleton](https://user-images.githubusercontent.com/71084430/232152728-5755ac07-1fdf-4083-b183-b2ebf968fa37.png)
+
 
