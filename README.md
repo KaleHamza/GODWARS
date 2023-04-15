@@ -32,6 +32,7 @@ Our game has its first NPC here, and its sole purpose is to either sell or buy s
 
 ![shopNpc](https://user-images.githubusercontent.com/71084430/230811960-e6ef40fb-a58a-4f6d-a9cd-eb064e45946e.png)
 
+
 We have a new Inventory DataSave system, but it's just on the code side, so I cannot show you a picture. When you kill a monster, some items from the inventory may drop from the enemy.(12.04.2023)
 
 
@@ -40,5 +41,7 @@ We have a player panel, and we can equip items on ourselves.The items we equip p
 
 We have Enemy Iskeleton and this enemy has AI!
 ![Iskeleton](https://user-images.githubusercontent.com/71084430/232152728-5755ac07-1fdf-4083-b183-b2ebf968fa37.png)
-
+Finally, the game can have a storyline! With this new feature, we don't just want to defeat monsters, we want to do it because they are terrorizing the village!!!
+Emotions are everything...
+![Dialogue](https://user-images.githubusercontent.com/71084430/232229785-5b6c6532-bf35-45c3-9e7c-46dce7df8e30.png)
 
