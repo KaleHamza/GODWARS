@@ -41,6 +41,7 @@ We have a player panel, and we can equip items on ourselves.The items we equip p
 
 We have Enemy Iskeleton and this enemy has AI!
 ![Iskeleton](https://user-images.githubusercontent.com/71084430/232152728-5755ac07-1fdf-4083-b183-b2ebf968fa37.png)
+
 Finally, the game can have a storyline! With this new feature, we don't just want to defeat monsters, we want to do it because they are terrorizing the village!!!
 Emotions are everything...
 ![Dialogue](https://user-images.githubusercontent.com/71084430/232229785-5b6c6532-bf35-45c3-9e7c-46dce7df8e30.png)
