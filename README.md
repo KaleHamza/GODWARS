@@ -47,3 +47,6 @@ Emotions are everything...
 
 ![Dialogue](https://user-images.githubusercontent.com/71084430/232229785-5b6c6532-bf35-45c3-9e7c-46dce7df8e30.png)
 
+New Enemy :![newEnemy](https://user-images.githubusercontent.com/71084430/232294814-79004424-0bd8-487e-9e5f-2f950da69f3a.png)
+
+
