@@ -51,4 +51,5 @@ Emotions are everything...
 
 New Enemy :![newEnemy](https://user-images.githubusercontent.com/71084430/232294814-79004424-0bd8-487e-9e5f-2f950da69f3a.png)
 
+![player_animator](https://user-images.githubusercontent.com/71084430/232814117-b5dbf167-9afd-4fcf-a2a3-bf37b4b53425.png)
 
