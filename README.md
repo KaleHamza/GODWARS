@@ -2,6 +2,7 @@
   I only share one class here.
  
  I learn that all game mechanism and take UI [here](https://www.udemy.com/course/unity-2d-rpg-oyun-yapm/)
+ Thanks for the udemy course trainer.I have learned a lot of things.
 
 ### New 2D Rpg game is loading....I will show you how I developed this game. If you follow this repository, you will see at which stage the game currently is. (01/04/2023)
 
